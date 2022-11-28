@@ -1,1 +1,6 @@
 *.pt
+test.py
+test.js
+corpus.ipynb
+total.txt
+corpus_combined_cut.csv
